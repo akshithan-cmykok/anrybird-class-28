@@ -1,2 +1,2 @@
-# anrybird-class-28
-SlingShot Efect
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
